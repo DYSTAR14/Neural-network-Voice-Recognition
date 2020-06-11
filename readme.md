@@ -1,6 +1,6 @@
-#Neural network Voice Recognition
+Neural network Voice Recognition
 
-#Human voice Dataset
+Human voice Dataset
 
 Data Of Speech Commands(Google data set)
 
